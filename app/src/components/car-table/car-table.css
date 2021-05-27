@@ -1,0 +1,12 @@
+.car_picture{
+    width: 10em;
+    border-radius: 15px;
+}
+
+.table-price{
+   font-weight: 500;
+}
+
+.Table-ContentCell{
+    font-size: 140%;
+}

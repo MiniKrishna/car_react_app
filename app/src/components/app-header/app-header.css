@@ -1,0 +1,9 @@
+.app-header{
+    margin-bottom: 2%;
+}
+
+.made-by{
+    display: inline-grid;
+    grid-auto-flow: column;
+    column-gap: 0.3rem;
+}
